@@ -1,0 +1,15 @@
+.main{
+    background-color: hsl(216, 12%, 8%);
+}
+
+.container{
+    background-color: hsl(213, 19%, 18%);
+}
+
+.p1{
+    color: hsl(0, 0%, 100%);
+}
+
+.p2, .rnd-btm{
+    color: hsl(217, 12%, 63%);
+}
