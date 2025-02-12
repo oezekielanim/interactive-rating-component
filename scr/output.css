@@ -603,9 +603,6 @@
   .bg-gray-700 {
     background-color: var(--color-gray-700);
   }
-  .bg-orange-300 {
-    background-color: var(--color-orange-300);
-  }
   .bg-orange-500 {
     background-color: var(--color-orange-500);
   }
@@ -624,17 +621,11 @@
   .pb-5 {
     padding-bottom: calc(var(--spacing) * 5);
   }
-  .pb-7 {
-    padding-bottom: calc(var(--spacing) * 7);
-  }
-  .pb-8 {
-    padding-bottom: calc(var(--spacing) * 8);
-  }
   .pb-10 {
     padding-bottom: calc(var(--spacing) * 10);
   }
-  .pb-20 {
-    padding-bottom: calc(var(--spacing) * 20);
+  .pb-52 {
+    padding-bottom: calc(var(--spacing) * 52);
   }
   .text-3xl {
     font-size: var(--text-3xl);
@@ -656,18 +647,6 @@
       @media (hover: hover) {
         cursor: pointer;
       }
-    }
-  }
-  .hover\:bg-white {
-    &:hover {
-      @media (hover: hover) {
-        background-color: var(--color-white);
-      }
-    }
-  }
-  .active\:bg-white {
-    &:active {
-      background-color: var(--color-white);
     }
   }
 }
